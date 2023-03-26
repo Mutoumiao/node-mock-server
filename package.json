@@ -1,0 +1,19 @@
+{
+  "name": "node-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "mutoumiao <839608583@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "mockjs": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
